@@ -1,4 +1,4 @@
-name := 'CrossTalk"
+name := 'CrossTalk'
 appid := 'com.github.russ_dm.crosstalk'
 
 rootdir := ''
