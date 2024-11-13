@@ -1,5 +1,5 @@
-name := 'cosmic-app-template'
-appid := 'com.example.CosmicAppTemplate'
+name := 'CrossTalk"
+appid := 'com.github.russ_dm.crosstalk'
 
 rootdir := ''
 prefix := '/usr'
