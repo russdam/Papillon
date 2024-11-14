@@ -1,5 +1,5 @@
 name := 'CrossTalk'
-appid := 'com.github.russ_dm.crosstalk'
+appid := 'com.github.russdam.crosstalk'
 
 rootdir := ''
 prefix := '/usr'
