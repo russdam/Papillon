@@ -1,20 +1,20 @@
 // Copyright (C) 2024 Russell Damerell-Moss <russell.damerell@me.com>
 // SPDX-License-Identifier: GPL-3.0-or-later
 //
-// This file is part of CrossTalk.
+// This file is part of Papillon.
 //
-// CrossTalk is free software: you can redistribute it and/or modify
+// Papillon is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
 // the Free Software Foundation, either version 3 of the License, or
 // (at your option) any later version.
 //
-// CrossTalk is distributed in the hope that it will be useful,
+// Papillon is distributed in the hope that it will be useful,
 // but WITHOUT ANY WARRANTY; without even the implied warranty of
 // MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 // GNU General Public License for more details.
 //
 // You should have received a copy of the GNU General Public License
-// along with CrossTalk. If not, see <https://www.gnu.org/licenses/>.
+// along with Papillon. If not, see <https://www.gnu.org/licenses/>.
 
 use crate::config::Config;
 use crate::fl;
@@ -27,7 +27,7 @@ use cosmic::{cosmic_theme, theme, Application, ApplicationExt, Apply, Element};
 use futures_util::SinkExt;
 use std::collections::HashMap;
 
-const REPOSITORY: &str = "https://github.com/russ_dm/CrossTalk";
+const REPOSITORY: &str = "https://github.com/russ_dm/Papillon";
 const APP_ICON: &[u8] = include_bytes!("../res/icons/hicolor/scalable/apps/icon.svg");
 
 /// The application model stores app-specific state used to describe its interface and

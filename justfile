@@ -1,5 +1,5 @@
-name := 'CrossTalk'
-appid := 'com.github.russdam.crosstalk'
+name := 'Papillon'
+appid := 'com.github.russdam.papillon'
 
 rootdir := ''
 prefix := '/usr'
